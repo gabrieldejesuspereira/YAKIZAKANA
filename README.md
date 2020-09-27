@@ -1,0 +1,2 @@
+# yakizakana
+aplicativo de tcc
