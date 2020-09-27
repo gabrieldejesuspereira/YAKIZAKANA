@@ -1,0 +1,51 @@
+ion-content{
+    --background:red;
+    color:white;
+}
+.botao{
+    --background:white;
+    --color:black;
+    font-weight: bold;
+
+} 
+.cabecalho{
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+.titulo{
+    font-size: x-large;
+    font-weight: bold;
+
+
+}
+.ofertas{
+    width: 360;
+    background: white;
+    border-radius: 25px;
+    color: black;
+    padding: 10px;
+
+}
+.subtitulo{
+    font-size:small;
+}
+.imagem{
+    margin-top: 10px;
+    border-radius: 20px;
+}
+.pontos{
+    color:red;
+    --margin-right: 20%;
+    
+}
+
+ion-card{
+    padding: 5px;
+    border-radius: 10px;
+}
+
+ion-card-title{
+    font-weight: bolder;
+}
+

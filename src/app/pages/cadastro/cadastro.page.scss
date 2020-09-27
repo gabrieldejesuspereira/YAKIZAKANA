@@ -1,0 +1,34 @@
+.conteudo{
+  margin-right: 1%;
+}
+.titulo{
+  font-size: bolder;
+  font-size: xx-large;
+  padding:30px ;
+  color: red;
+}
+.entrada{
+  --background: wheat;
+  border-radius: 5px;//a redondamento das postas
+  margin-left: 15px;
+  margin-right: 10px;
+  margin-top: 2px;
+  --higtlight-background:red;
+}
+.entrada.item-has-focus>ion-label{color:red !important;}
+
+.entradas{
+  margin-top: 35px;
+}
+
+.criar{
+  --background:red;
+  margin: 25px;
+}
+.aceite{
+  font-size: x-small;
+  margin: 25px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}

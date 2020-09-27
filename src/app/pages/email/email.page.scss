@@ -1,0 +1,30 @@
+.conteudo{
+    margin-right: 1%;
+  }
+  .titulo{
+    font-size: bolder;
+    font-size: 100%;
+    padding:2px ;
+    color: red;
+    justify-content: center;
+  }
+  .entrada{
+    --background:wheat;
+    border-radius: 5px;//a redondamento das postas
+    margin-left: 15px;
+    margin-right: 10px;
+    margin-top: 15px;
+    --higtlight-background:red;
+  }
+  .entrada.item-has-focus>ion-label{color:red !important;}
+  
+  .entradas{
+    margin-top: 35px;
+  }
+  
+  .criar{
+    --background:green;
+    margin: 25px;
+    justify-content: center;
+    
+  }

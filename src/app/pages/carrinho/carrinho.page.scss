@@ -1,0 +1,35 @@
+ion-content{
+    --color:white;
+}
+ion-content div:first-child{
+    position:relative;
+
+}
+ion-content div:last-child{
+    position:relative;
+    margin-top: -25px;;
+}
+.cabecalho{
+    height: 200px;
+       
+    background-size: cover;
+}
+.pontos{
+    color: red;
+    margin-left: 5px;
+}
+ion-card{
+    padding: 5px;
+    border-bottom: 10px;
+}
+ion-card-title{
+    font-weight: bolder;
+
+}
+ion-card-size{
+    font-weight: small;
+
+}
+.ingredientes{
+    font-size: small;
+}
