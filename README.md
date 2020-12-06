@@ -1,2 +1,3 @@
 # yakizakana
-aplicativo de tcc
+aplicativo de tcc 
+EM DESENVOLVIMENTO
